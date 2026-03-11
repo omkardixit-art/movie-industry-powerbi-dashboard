@@ -69,4 +69,4 @@ Key Insights from the Dashboard
 Project Outcome
 This project demonstrates the use of Power BI for data cleaning, analysis, and interactive visualization. It shows how data can be transformed into meaningful insights to support data-driven decision making.
 
-The dashboard can be useful for analysts, researchers, or anyone interested
+The dashboard can be useful for analysts, researchers, or anyone interested in understanding trends in the global movie industry.
